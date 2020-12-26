@@ -1,3 +1,5 @@
+## Arabic NE-annotated Corpus from Wikipedia
+
 This resource (WDC dataset) is subject to a CC-BY 3.0 license
 
 http://creativecommons.org/licenses/by/3.0/us/
@@ -14,14 +16,14 @@ You are free to:
     endorses you or your use
  
 Please cite our paper in any published work using this resource:
-
+'''
 @article{althobaiti2014:wikicorpus,
   title={Automatic Creation of {Arabic} Named Entity Annotated Corpus Using {Wikipedia}},
   author={Althobaiti, Maha and Kruschwitz, Udo and Poesio, Massimo},
   journal={EACL 2014},
   year={2014}
 }
-
+'''
 
 WDC dataset adheres to the CoNLL 2003 annotation guidelines and CoNLL NE types which include Person, Location, Organisation, and Miscellaneous
 List of tags with associated categories of names can be found here
